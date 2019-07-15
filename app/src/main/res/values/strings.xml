@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About Alc</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Robert Andama</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Uganda</string>
+    <string name="email">Email: rolynandama@gail.com</string>
+    <string name="phone_number">Phone Number: 256702997867</string>
+    <string name="slack_username">Slack Username: @Roberts</string>
+    <string name="andela_about_alc">"https://andela.com/alc/"</string>
+</resources>
